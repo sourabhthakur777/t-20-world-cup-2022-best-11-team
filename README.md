@@ -28,5 +28,9 @@ This project helped me to learn new features of Power BI.
 -Calculated Columns
 -Custom Tables
 -Tooltips
+![t-20](https://user-images.githubusercontent.com/113992933/222404590-0144d80b-dda0-49b3-b6f0-518c62fbd13e.png)
+![t-20a](https://user-images.githubusercontent.com/113992933/222404661-b1356e93-1afd-4443-9c51-27d9138ac47e.png)
+![t-20b](https://user-images.githubusercontent.com/113992933/222404709-d0f2358f-a186-4f62-bce6-bc872006b0f8.png)
+
 
 
