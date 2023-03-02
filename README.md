@@ -10,7 +10,7 @@ Steps Involved In the Project :-
 # 🌐Data Collection and Preprocessing: 
 Collected the raw data from the ESPN database and preprocess it using Python. Data cleaning and feature engineering techniques applied to ensure the data is in the desired format for analysis.
 
-# 🧹Exploratory Data Analysis (EDA): 
+# 🧹Exploratory Data Analysis (EDA) & Data Cleaning: 
 Conducted EDA on the preprocessed data using Python. This step includes performing statistical analysis, creating visualizations, and identifying patterns and trends in the data.
 
 #🪄 Export Data to Power BI: 
