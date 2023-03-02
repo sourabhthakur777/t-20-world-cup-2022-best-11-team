@@ -3,6 +3,8 @@ https://www.novypro.com/project/t-20-world-cup-2022
 
 # t-20-world-cup-2022-best-11-team
 
+In this end-to-end data analytics project, we have used cricket T20 world cup (2022) data to build insights on a best 11 players team. I have used web scraping to collect data from espn cricinfo website then we performed some data transformation & cleaning in pandas, followed by building dashboards in Power BI.
+
 Steps Involved In the Project :-
 
 # Data Collection and Preprocessing: 
