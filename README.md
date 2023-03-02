@@ -1,3 +1,6 @@
+# Checkout and Interact with my Dashboard On:
+https://www.novypro.com/project/t-20-world-cup-2022
+
 # t-20-world-cup-2022-best-11-team
 
 Steps Involved In the Project :-
@@ -24,5 +27,4 @@ This project helped me to learn new features of Power BI.
 -Custom Tables
 -Tooltips
 
-# Checkout and Interact with my Dashboard On:
-https://www.novypro.com/project/t-20-world-cup-2022
+
